@@ -1,0 +1,21 @@
+.btn {
+    display: block;
+  }
+  
+  #quote {
+    display: none;
+  }
+  
+  #story {
+    display: none;
+  }
+  
+  #limit {
+    color: blue;
+    font-weight: 700;
+  }
+  
+  #blue1 {
+    color: blue;
+    font-weight: 700;
+  }
